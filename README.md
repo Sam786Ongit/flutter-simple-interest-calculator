@@ -1,8 +1,5 @@
-# sicalculator
+# simple interest calculator
 
-A new Flutter project.
+A flutter Project 
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
